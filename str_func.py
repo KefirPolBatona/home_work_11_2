@@ -1,6 +1,6 @@
 def string_upper(string):
     """
-    Принимает строку и возвращает ее со всеми заглавными буквами
+    Принимает строку и возвращает ее со всеми заглавными буквами (in parentheses docstring additional change)
     """
     return string.upper()
 
